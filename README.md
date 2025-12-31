@@ -1,5 +1,9 @@
 # Project Background
-Backround about the company, including the industry, active years, business model, and key business metrics. Explain this from the POV of a data analyst who is working at the company.
+MavenTech is a B2B technology company that specializes in selling computer hardware solutions to large enterprise clients. To manage and track its sales opportunities, MavenTech recently implemented a new Customer Relationship Management (CRM) system. While the CRM effectively captures detailed opportunity-level data, the company currently lacks visibility into sales performance outside of the platform.
+
+MavenTech holds a substantial volume of data related to sales opportunities, products, customer accounts, and deal outcomes. However, this data has not been fully leveraged to generate actionable insights for sales leadership. This project aims to analyze and transform the CRM data into meaningful insights that support data-driven decision-making for sales managers.
+
+By developing an interactive Power BI dashboard, this project enables sales managers to monitor quarterly performance, evaluate individual and team-level results, and identify areas for improvement. The dashboard is designed to provide a clear view of key performance indicators (KPIs) while allowing users to explore trends across time, products, and sales teams.
 
 Insights and recommendations are provided on the following key areas:
 
