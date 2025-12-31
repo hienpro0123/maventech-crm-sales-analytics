@@ -26,8 +26,7 @@ An interactive Tableau dashboard used to report and explore sales trends can be 
 
 MavenTech's database structure as seen below consists of four tables: accounts, products, sales_pipeline, sales_team with a total row count of 8,801 records.
 
-[Entity Relationship Diagram here]
-
+![Database Schema](https://github.com/hienpro0123/maventech-crm-sales-analytics/blob/main/imgs/tables.png?raw=true)
 
 
 # Executive Summary
