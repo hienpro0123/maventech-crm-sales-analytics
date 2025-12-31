@@ -6,11 +6,13 @@ MavenTech holds a substantial volume of data related to sales opportunities, pro
 By developing an interactive Power BI dashboard, this project enables sales managers to monitor quarterly performance, evaluate individual and team-level results, and identify areas for improvement. The dashboard is designed to provide a clear view of key performance indicators (KPIs) while allowing users to explore trends across time, products, and sales teams.
 
 Insights and recommendations are provided on the following key areas:
+- **Sales Performance Analysis**: Evaluation of overall and quarterly sales performance, focusing on total revenue, number of deals, conversion rates, and average deal value.
 
-- **Category 1:** 
-- **Category 2:** 
-- **Category 3:** 
-- **Category 4:** 
+- **Team & Individual Performance**: Analysis of sales results at both team and individual salesperson levels to identify high performers and areas requiring additional support.
+
+- **Pipeline & Conversion Insights**: Assessment of won versus lost opportunities to better understand conversion effectiveness and sales efficiency.
+
+- **Comparative Performance**: Comparison of team performance against company-wide averages to provide context and benchmarking insights.
 
 The SQL queries used to inspect and clean the data for this analysis can be found here [link].
 
